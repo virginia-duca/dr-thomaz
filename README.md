@@ -1,3 +1,22 @@
+## 💻 Preview da Página
+
+### Desktop
+<p>
+  <img src="./public/desktop1.png" width="30%" style="margin-right: 10px;" />
+  <img src="./public/desktop2.png" width="30%" style="margin: 0 10px;" />
+  <img src="./public/desktop3.png" width="30%" />
+</p>
+
+### Mobile
+<p>
+  <img src="./public/mobile1.png" width="10%" style="margin-right: 10px;" />
+  <img src="./public/mobile2.png" width="10%" style="margin: 0 10px;" />
+  <img src="./public/mobile3.png" width="10%" style="margin: 0 10px;" />
+  <img src="./public/mobile4.png" width="10%" style="margin: 0 10px;" />
+  <img src="./public/mobile5.png" width="10%" style="margin: 0 10px;" />
+  <img src="./public/mobile6.png" width="10%" />
+</p>
+
 # Dr. Thomaz Duca - Landing Page
 
 Landing page institucional para o Dr. Thomaz Duca, especialista em transplante capilar e tricologia, com atendimento em São Paulo, Belo Horizonte e Divinópolis.
