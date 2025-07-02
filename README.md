@@ -13,12 +13,12 @@ Landing page institucional para o Dr. Thomaz Duca, especialista em transplante c
 
 ### Mobile
 <p>
-  <img src="./public/mobile1.png" width="10%" style="margin-right: 10px;" />
-  <img src="./public/mobile2.png" width="10%" style="margin: 0 10px;" />
-  <img src="./public/mobile3.png" width="10%" style="margin: 0 10px;" />
-  <img src="./public/mobile4.png" width="10%" style="margin: 0 10px;" />
-  <img src="./public/mobile5.png" width="10%" style="margin: 0 10px;" />
-  <img src="./public/mobile6.png" width="10%" />
+  <img src="./public/mobile1.png" width="15%" style="margin-right: 10px;" />
+  <img src="./public/mobile2.png" width="15%" style="margin: 0 10px;" />
+  <img src="./public/mobile3.png" width="15%" style="margin: 0 10px;" />
+  <img src="./public/mobile4.png" width="15%" style="margin: 0 10px;" />
+  <img src="./public/mobile5.png" width="15%" style="margin: 0 10px;" />
+  <img src="./public/mobile6.png" width="15%" />
 </p>
 
 
